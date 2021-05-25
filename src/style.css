@@ -1,0 +1,10 @@
+canvas {
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+#app {
+  position: absolute;
+  color: white;
+}
